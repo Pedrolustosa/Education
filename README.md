@@ -3,7 +3,7 @@
 <details>
 <summary>PT-BR</summary>
 
-# Projeto Login
+# Projeto Educação
 
 Bem vindo ao curso mais completo de Bootstrap 5 a versão mais recente do Framework CSS mais popular da internet.
 
@@ -29,7 +29,7 @@ Bem vindo ao curso mais completo de Bootstrap 5 a versão mais recente do Framew
 <details>
 <summary>EN</summary>
 
-# Project Login
+# Project Education
 
 Welcome to the most comprehensive Bootstrap 5 course, the latest version of the most popular CSS Framework on the internet.
 
